@@ -43,6 +43,7 @@ I would also like to see the demographic behind the victims of firearm related i
     - secondamendment
     - 2ndamendment
     - shooting
+    - gun
   - We scraped for a max of 100 tweets per search phrase, for every week between the 1 Jan 2006 and today
 
 ## Packages required to be installed
@@ -70,5 +71,13 @@ The following packages are required for the program to run:
 - plotly.offline
 
 ## Running the program
-
-
+You will be given the choice to select two dates between the ranges of 1999-2020.
+You will then be given the following choices:
+- View written description of mass shootings
+- View information on race of firearm victims
+- View information on the type of deaths of victims of firearm related deaths
+- View information on the number of firearm related injuries
+- View information regarding tweets
+- Select the dataset you want to compare the sentiment of tweets with
+  - If you select the mass shootings dataset, you will then be able to select whether you want to see the number of total victims, number of total individuals injured, or the number of fatalities
+Giving an erroneous year will lead the program to automatically stop. Please follow the instructions given.
