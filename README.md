@@ -70,6 +70,9 @@ The following packages are required for the program to run:
 - plotly.subplots
 - plotly.offline
 
+## Data Structure
+Using the package networkx I created a graph using the years as nodes, and features as attributes to those nodes. The features include information on fatalities according to the Kaggle dataset, the number of deaths according to Wonder, the number of tweets related to fireguns as well as the sentiment analysis for the tweets. I then iterated through the years and connected them by ascending years. 
+
 ## Running the program
 You will be given the choice to select two dates between the ranges of 1999-2020.
 You will then be given the following choices:
