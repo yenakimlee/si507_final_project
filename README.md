@@ -83,4 +83,5 @@ You will then be given the following choices:
 - View information regarding tweets
 - Select the dataset you want to compare the sentiment of tweets with
   - If you select the mass shootings dataset, you will then be able to select whether you want to see the number of total victims, number of total individuals injured, or the number of fatalities
+
 Giving an erroneous year will lead the program to automatically stop. Please follow the instructions given.
